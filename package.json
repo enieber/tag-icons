@@ -1,0 +1,9 @@
+{
+  "name": "tag-icons",
+  "version": "1.0.0",
+  "description": "icons with name based in svg to react component",
+  "main": "index.js",
+  "author": "Enieber Cunha <eniebercunha@gmail.com>",
+  "license": "GPL-3",
+  "private": false
+}
